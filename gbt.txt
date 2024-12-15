@@ -44,6 +44,6 @@ deck:
 3 amaranth  2 normal_unit
 2 juggler   2 normal_unit
 3 princess  2 normal_unit
-4 gbt       3 normal_unit 		accel
-4 alice     3 normal_unit 		accel
+4 gbt       3 normal_unit    accel
+4 alice     3 normal_unit    accel
 2 chimera   3 normal_unit
