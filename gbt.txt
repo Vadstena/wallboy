@@ -25,25 +25,25 @@ send:
 chimera
 
 targets:
-gbt ride_tg
-alice call_tg
+gbt       ride_tg
+alice     call_tg
 midbunny 
-chimera call_tg
+chimera   call_tg
 jill
 amaranth
 
 deck:
-4 crit1 	0 critical_trigger
-4 crit2 	0 critical_trigger
-4 heal 		0 heal_trigger
-4 drawpg 	0 draw_trigger
-4 bunny 	1 normal_unit
+4 crit1 	  0 critical_trigger
+4 crit2 	  0 critical_trigger
+4 heal 		  0 heal_trigger
+4 drawpg 	  0 draw_trigger
+4 bunny 	  1 normal_unit
 4 midbunny 	1 normal_unit
 4 trapezist 1 normal_unit
-3 jill 		2 normal_unit
+3 jill 		  2 normal_unit
 3 amaranth 	2 normal_unit
 2 juggler 	2 normal_unit
 3 princess 	2 normal_unit
-4 gbt 		3 normal_unit 		accel
-4 alice 	3 normal_unit 		accel
+4 gbt 		  3 normal_unit 		accel
+4 alice 	  3 normal_unit 		accel
 2 chimera 	3 normal_unit
